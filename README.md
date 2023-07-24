@@ -12,3 +12,9 @@ Binary packages for Windows XP through Windows 10.
 
 ## Redistributable
 * [**Visual C++ 2019 (v16.7) Redistributable**](https://github.com/veganaize/WinBin/releases/download/perl5/VC_redist.x86_2019.v16.7.exe) - _(XP-compatible) Install this only if you get an error when trying to run a utility._
+
+---
+
+# Resources
+
+* [A-Z Index of Windows Commands](https://ss64.com/nt/) - ss64.com

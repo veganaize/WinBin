@@ -16,4 +16,5 @@ _*Requires SSE2 capable processor._
 ### Resources
 
 * [A-Z Index of Windows Commands](https://ss64.com/nt/) - ss64.com
+* [Windows Batch Scripting](https://en.wikibooks.org/wiki/Windows_Batch_Scripting) - wikibooks.org
 * [VBScript Programming](https://en.wikibooks.org/wiki/VBScript_Programming) - wikibooks.org

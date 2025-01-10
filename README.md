@@ -25,6 +25,8 @@
 
 - [**Perl 5.36.0**](https://github.com/veganaize/WinBin/releases/download/perl5/perl-5.36.0-windows-x86.zip)*
 
+- [**SeaMonkey 2.49.5**](https://archive.seamonkey-project.org/releases/2.49.5/win32/en-US/seamonkey-2.49.5.zip)* ([2.40; no SSE2](https://archive.seamonkey-project.org/releases/2.40/win32/en-US/seamonkey-2.40.zip))
+
 _*Requires SSE2 capable processor._
 
 

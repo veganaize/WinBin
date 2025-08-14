@@ -37,3 +37,12 @@ _*Requires SSE2 capable processor._
 * [A-Z Index of Windows Commands](https://ss64.com/nt/) - ss64.com
 * [Windows Batch Scripting](https://en.wikibooks.org/wiki/Windows_Batch_Scripting) - wikibooks.org
 * [VBScript Programming](https://en.wikibooks.org/wiki/VBScript_Programming) - wikibooks.org
+
+---
+
+### Evaluation ISOs
+
+* [Windows 7 Enterprise Evaluation (x86)](https://archive.org/download/windows-7-trial-iso/32bit/English/7600.16385.090713-1255_x86fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENEVAL_EN_DVD.iso) - archive.org ([SHA1](https://www.mydigitallife.net/windows-7-enterprise-trial-32-bit-and-64-bit-iso-official-download/): 971FC00183A52C152FE924A6B99FDEC011A871C2)
+* [Windows 7 Enterprise Evaluation (x64)](https://archive.org/download/windows-7-trial-iso/64bit/English/7600.16385.090713-1255_x64fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENXEVAL_EN_DVD.iso) - archive.org ([SHA1](https://www.mydigitallife.net/windows-7-enterprise-trial-32-bit-and-64-bit-iso-official-download/): 15DDABAFA72071A06D5213B486A02D5B55CB7070)
+* [Windows 7 Enterprise N Evaluation SP1 (x86)](https://archive.org/download/Win7EntNEvalSP1/7601.17514.101119-1850_x86fre_enterprisen_en-us_EVAL_Eval_EnterpriseN-GRMCNENEVAL_EN_DVD.iso) - archive.org
+* [Windows 7 Enterprise N Evaluation SP1 (x64)](https://archive.org/download/Win7EntNEvalSP1/7601.17514.101119-1850_x64fre_enterprisen_en-us_EVAL_Eval_EnterpriseN-GRMCNENXEVAL_EN_DVD.iso) - archive.org

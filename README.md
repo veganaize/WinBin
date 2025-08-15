@@ -39,8 +39,11 @@ _*Requires SSE2 capable processor._
 
 ---
 
-### Evaluation ISOs
+### ISOs
 
+* [Visual Studio 2015 Community Edition Update 3](http://download.microsoft.com/download/b/e/d/bedddfc4-55f4-4748-90a8-ffe38a40e89f/vs2015.3.com_enu.iso) - microsoft.com
+* [Visual C++ Build Tools 2015 Update 3 (x86)](https://archive.org/download/mu_visual_cpp_build_tools_2015_update_3_x86_dvd_779b35c8/mu_visual_cpp_build_tools_2015_update_3_x86_dvd_779b35c8.iso) - archive.org
+* [Visual C++ Build Tools 2015 Update 3 (x64)](https://archive.org/download/mu_visual_cpp_build_tools_2015_update_3_x64_dvd_dfd9a39c/mu_visual_cpp_build_tools_2015_update_3_x64_dvd_dfd9a39c.iso) - archive.org
 * <details><summary><a href="https://archive.org/download/windows-7-trial-iso/32bit/English/7600.16385.090713-1255_x86fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENEVAL_EN_DVD.iso">Windows 7 Enterprise Evaluation (x86)</a> - archive.org</summary>
     <a href="https://www.mydigitallife.net/windows-7-enterprise-trial-32-bit-and-64-bit-iso-official-download/">SHA1</a>: 971FC00183A52C152FE924A6B99FDEC011A871C2
   </details>

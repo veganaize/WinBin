@@ -35,7 +35,7 @@
 - [**SeaMonkey 2.49.5**](https://archive.seamonkey-project.org/releases/2.49.5/win32/en-US/seamonkey-2.49.5.zip) <sup>SSE2</sup> _(or [2.40](https://archive.seamonkey-project.org/releases/2.40/win32/en-US/seamonkey-2.40.zip) without SSE2)_
 
 
-_<sup>SSE2</sup> - Requires SSE2 capable processor._
+_<sup>SSE2</sup> - <sub>Requires SSE2 capable processor.</sub>_
 
 ---
 

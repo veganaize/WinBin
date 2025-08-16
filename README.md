@@ -1,9 +1,17 @@
-### Redistributable
-* [**Visual C++ 2019 (v16.7) Redistributable**](https://github.com/veganaize/WinBin/releases/download/perl5/VC_redist.x86_2019.v16.7.exe) - _(**XP-compatible**) Install this only if you get an error when trying to run a utility._
+<img width="32" alt="Windows XP logo" src="https://toppng.com/uploads/thumbnail/windows-logos-logo-no-background-11662285606lkrkkqs0wj.png"
+/> (XP compatible) redistributable
+----------------------------------
 
-### Portable Binary Packages
+* [**Visual C++ 2019 (v16.7) Redistributable**](https://github.com/veganaize/WinBin/releases/download/perl5/VC_redist.x86_2019.v16.7.exe) - _Install this only if you get an error when trying to run a utility._
 
-* [**GNU Make 4.4.1**](https://github.com/veganaize/WinBin/releases/download/make4/gnumake-4.4.1-windows-x86.zip)*
+---
+
+
+<img width="32" alt="Windows XP logo" src="https://toppng.com/uploads/thumbnail/windows-logos-logo-no-background-11662285606lkrkkqs0wj.png"
+/> (XP compatible) portable binary packages
+-------------------------------------------
+
+* [**GNU Make 4.4.1**](https://github.com/veganaize/WinBin/releases/download/make4/gnumake-4.4.1-windows-x86.zip) <sup>SSE2</sup>
 
 * <details><summary><b><a href="https://github.com/veganaize/WinBin/releases/download/lua5/lua-5.4.6-win32.zip">Lua 5.4.6</a></b></summary>
   
@@ -20,18 +28,29 @@
         copy src\lua.hpp lua\include
 </details>
 
-- [**OpenSSL 1.1.1t**](https://github.com/veganaize/WinBin/releases/download/openssl1/openssl-1.1.1t-windows-x86.zip)*
+- [**OpenSSL 1.1.1t**](https://github.com/veganaize/WinBin/releases/download/openssl1/openssl-1.1.1t-windows-x86.zip) <sup>SSE2</sup>
 
-- [**Perl 5.36.0**](https://github.com/veganaize/WinBin/releases/download/perl5/perl-5.36.0-windows-x86.zip)*
+- [**Perl 5.36.0**](https://github.com/veganaize/WinBin/releases/download/perl5/perl-5.36.0-windows-x86.zip) <sup>SSE2</sup>
 
-- [**SeaMonkey 2.49.5**](https://archive.seamonkey-project.org/releases/2.49.5/win32/en-US/seamonkey-2.49.5.zip)* ([2.40; no SSE2](https://archive.seamonkey-project.org/releases/2.40/win32/en-US/seamonkey-2.40.zip))
+- [**SeaMonkey 2.49.5**](https://archive.seamonkey-project.org/releases/2.49.5/win32/en-US/seamonkey-2.49.5.zip) <sup>SSE2</sup> _(or [2.40](https://archive.seamonkey-project.org/releases/2.40/win32/en-US/seamonkey-2.40.zip) without SSE2)_
 
-_*Requires SSE2 capable processor._
 
+_<sup>SSE2</sup> - Requires SSE2 capable processor._
 
 ---
 
-### Resources
+
+<img width="32" alt="Windows 7 logo" src="https://toppng.com/uploads/thumbnail/windows-logos-logo-png-download-11662285633k3ggyk3bou.png"
+/> (Win7 compatible) portable binary packages
+---------------------------------------------
+
+* [CMake 3.28.6 (x86)](https://cmake.org/files/v3.28/cmake-3.28.6-windows-i386.zip)
+* [CMake 3.28.6 (x64)](https://cmake.org/files/v3.28/cmake-3.28.6-windows-x86_64.zip)
+
+---
+
+
+### 📑 Resources
 
 * [A-Z Index of Windows Commands](https://ss64.com/nt/) - ss64.com
 * [Windows Batch Scripting](https://en.wikibooks.org/wiki/Windows_Batch_Scripting) - wikibooks.org
@@ -39,7 +58,8 @@ _*Requires SSE2 capable processor._
 
 ---
 
-### ISOs
+
+### 📀 ISOs
 
 * [Visual Studio 2015 Community Edition Update 3](http://download.microsoft.com/download/b/e/d/bedddfc4-55f4-4748-90a8-ffe38a40e89f/vs2015.3.com_enu.iso) - microsoft.com
 * [Visual C++ Build Tools 2015 Update 3 (x86)](https://archive.org/download/mu_visual_cpp_build_tools_2015_update_3_x86_dvd_779b35c8/mu_visual_cpp_build_tools_2015_update_3_x86_dvd_779b35c8.iso) - archive.org

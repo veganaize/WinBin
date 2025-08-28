@@ -11,9 +11,14 @@
 /> (XP compatible) portable binary packages
 -------------------------------------------
 
+* <details><summary><b><a href="https://github.com/veganaize/WinBin/releases/download/chakracore1.11/ChakraCore_1.11.24_x86_release.zip">ChakraCore 1.11.24</a></b> <i><sup>SSE2</sup></i></summary>
+
+      set _LINK_=-subsystem:console,"5.01"
+      msbuild /m /p:configuration=release /p:RuntimeLib=static_library Build\Chakra.Core.sln
+</details>
+
 * [**CMake 3.13.5**](https://cmake.org/files/v3.13/cmake-3.13.5-win32-x86.zip) - _cmake.org_
 * [**GNU Make 4.4.1**](https://github.com/veganaize/WinBin/releases/download/make4/gnumake-4.4.1-windows-x86.zip) _<sup>SSE2</sup>_
-
 * <details><summary><b><a href="https://github.com/veganaize/WinBin/releases/download/lua5/lua-5.4.6-win32.zip">Lua 5.4.6</a></b></summary>
   
         REM --- tdm-gcc 10.3.0 (32-bit) ---
@@ -29,11 +34,9 @@
         copy src\lua.hpp lua\include
 </details>
 
-- [**OpenSSL 1.1.1t**](https://github.com/veganaize/WinBin/releases/download/openssl1/openssl-1.1.1t-windows-x86.zip) _<sup>SSE2</sup>_
-
-- [**Perl 5.36.0**](https://github.com/veganaize/WinBin/releases/download/perl5/perl-5.36.0-windows-x86.zip) _<sup>SSE2</sup>_
-
-- [**SeaMonkey 2.49.5**](https://archive.seamonkey-project.org/releases/2.49.5/win32/en-US/seamonkey-2.49.5.zip) _<sup>SSE2</sup> (or [2.40](https://archive.seamonkey-project.org/releases/2.40/win32/en-US/seamonkey-2.40.zip) without SSE2)_
+* [**OpenSSL 1.1.1t**](https://github.com/veganaize/WinBin/releases/download/openssl1/openssl-1.1.1t-windows-x86.zip) _<sup>SSE2</sup>_
+* [**Perl 5.36.0**](https://github.com/veganaize/WinBin/releases/download/perl5/perl-5.36.0-windows-x86.zip) _<sup>SSE2</sup>_
+* [**SeaMonkey 2.49.5**](https://archive.seamonkey-project.org/releases/2.49.5/win32/en-US/seamonkey-2.49.5.zip) _<sup>SSE2</sup> (or [2.40](https://archive.seamonkey-project.org/releases/2.40/win32/en-US/seamonkey-2.40.zip) without SSE2) - seamonkey-project.org_
 
 
 _<sup>SSE2</sup> - <sub>Requires SSE2 capable processor.</sub>_
